@@ -1,0 +1,8 @@
+﻿  ReadVideo.cpp
+e:\opencv\vc15\install\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\opencv\vc15\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\opencv\vc15\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\opencv\vc15\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\opencv\vc15\install\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\vs_project\readvideo\readvideo\readvideo.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ReadVideo.vcxproj -> E:\VS_Project\ReadVideo\x64\Debug\ReadVideo.exe
